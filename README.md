@@ -1,7 +1,7 @@
 # Ballpeep-filament-sensor
 Makergear filament run out switch
 
-source files for original filament drive can be found here [https://github.com/MakerGear/M3/blob/master/Printed%20Parts/STL/Filament%20Drive.STL](https://github.com/MakerGear/M3/tree/master/Printed%20Parts/STEP)
+source files for original filament drive can be found here https://github.com/MakerGear/M3/tree/master/Printed%20Parts/STEP
 
 
 
